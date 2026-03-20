@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-This GitHub organization hosts the homepage of the Python package **PyAFV**: https://github.com/wwang721/pyafv.
+This GitHub organization hosts the [homepage](https://pyafv.github.io) and other [assets](https://github.com/pyafv/assets) of the Python package **PyAFV**: https://github.com/wwang721/pyafv.
+
+![AFV_PBC](https://raw.githubusercontent.com/pyafv/assets/main/gif/test.gif)
 
 <!--
 
