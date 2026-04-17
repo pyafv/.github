@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+[![PyPi](https://img.shields.io/pypi/v/pyafv?color=brightgreen&cacheSeconds=300)](https://pypi.org/project/pyafv/)
+[![Conda Version](https://img.shields.io/conda/vn/conda-forge/pyafv.svg)](https://anaconda.org/conda-forge/pyafv)
+[![Docker](https://img.shields.io/docker/v/wwang721/pyafv?logo=docker&sort=semver&color=blue&label=docker)](https://hub.docker.com/r/wwang721/pyafv)
+[![License](https://img.shields.io/github/license/wwang721/pyafv)](https://github.com/wwang721/pyafv/blob/main/LICENSE)
+[![Documentation](https://app.readthedocs.org/projects/pyafv/badge/?version=latest)](https://pyafv.readthedocs.io)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pyafv/assets/blob/main/jupyter/index.ipynb)
+
 This GitHub organization hosts the [homepage](https://pyafv.github.io) and other [assets](https://github.com/pyafv/assets) of the Python package **PyAFV**: https://github.com/wwang721/pyafv.
 
 ![AFV_PBC](https://raw.githubusercontent.com/pyafv/assets/main/gif/test.gif)
