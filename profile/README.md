@@ -7,9 +7,16 @@
 [![Documentation](https://app.readthedocs.org/projects/pyafv/badge/?version=latest)](https://pyafv.readthedocs.io)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pyafv/assets/blob/main/jupyter/index.ipynb)
 
-This GitHub organization hosts the [homepage](https://pyafv.github.io) and other [assets](https://github.com/pyafv/assets) of the Python package **PyAFV**: https://github.com/wwang721/pyafv.
+This organization hosts the [homepage](https://pyafv.github.io) and [assets](https://github.com/pyafv/assets) of the Python package **PyAFV**: https://github.com/wwang721/pyafv.
 
-![AFV_PBC](https://raw.githubusercontent.com/pyafv/assets/main/gif/test.gif)
+<p align="left">
+  <span>
+    <img src="https://raw.githubusercontent.com/pyafv/assets/main/gif/test.gif" height="300" style="display:block;">
+  </span>
+  <span>
+    <img src="https://github.com/pyafv/assets/blob/main/talks/test.gif?raw=true" height="300" style="display:block;">
+  </span>
+</p>
 
 <!--
 
