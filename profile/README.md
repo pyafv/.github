@@ -14,7 +14,7 @@ This organization hosts the [homepage](https://pyafv.github.io) and [assets](htt
     <img src="https://raw.githubusercontent.com/pyafv/assets/main/gif/test.gif" height="300" style="display:block;">
   </span>
   <span>
-    <img src="https://github.com/pyafv/assets/blob/main/talks/test.gif?raw=true" height="300" style="display:block;">
+    <img src="https://github.com/pyafv/assets/blob/main/talks/test_preview.gif" height="300" style="display:block;">
   </span>
 </p>
 
