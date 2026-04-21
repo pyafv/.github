@@ -5,6 +5,7 @@
 [![Docker](https://img.shields.io/docker/v/wwang721/pyafv?logo=docker&sort=semver&color=blue&label=docker)](https://hub.docker.com/r/wwang721/pyafv)
 [![License](https://img.shields.io/github/license/wwang721/pyafv)](https://github.com/wwang721/pyafv/blob/main/LICENSE)
 [![Documentation](https://app.readthedocs.org/projects/pyafv/badge/?version=latest)](https://pyafv.readthedocs.io)
+[![arXiv:2604.15481](https://img.shields.io/badge/arXiv-2604.15481-grey.svg?colorB=a42c25&logo=arxiv)](https://doi.org/10.48550/arXiv.2604.15481)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pyafv/assets/blob/main/jupyter/index.ipynb)
 
 This organization hosts the [homepage](https://pyafv.github.io) and [assets](https://github.com/pyafv/assets) of the Python package **PyAFV**: https://github.com/wwang721/pyafv.
