@@ -18,6 +18,9 @@ This organization hosts the [homepage](https://pyafv.github.io) and [assets](htt
   </span>
 </p>
 
+> See also an interactive [simulation demo](https://dapengbi.com/paper_simulation_demos/afv_model/index.html) using **PyAFV** on Prof. Dapeng (Max) Bi's homepage!
+
+
 <!--
 
 **Here are some ideas to get you started:**
